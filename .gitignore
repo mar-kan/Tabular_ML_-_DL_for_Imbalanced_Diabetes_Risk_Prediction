@@ -1,5 +1,16 @@
 *.csv
 *.h5
+*.keras
 *.png
 *.PNG
 tests/*
+*.csv
+todo.md
+saved_models
+__pycache__
+*.db
+*.7z
+*.pt
+ckpt/*
+*.pkl
+*.json
